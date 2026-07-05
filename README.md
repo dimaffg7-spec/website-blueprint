@@ -30,6 +30,9 @@
 1. Выполни: git clone https://github.com/dimaffg7-spec/website-blueprint
    Затем прочитай website-blueprint/README.md и все файлы в website-blueprint/docs/,
    website-blueprint/prompts/ и website-blueprint/.claude/skills/site-factory/SKILL.md.
+   Затем предложи мне (опционально) поставить рекомендуемый инструментарий - свежие доки
+   библиотек и дизайн-советника - командой `bash website-blueprint/scripts/setup-tools.sh`.
+   Откажусь - продолжай без него.
 2. Дальше действуй как скилл site-factory: веди меня по конвейеру шаг за шагом.
 3. Начни с брифа дня 0 - БЕЗ КОДА. Расспроси меня:
    - про что сайт, для кого, какая цель (заявки / запись / продажа)?
